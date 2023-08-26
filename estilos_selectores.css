@@ -1,0 +1,58 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+h1{
+    color:green;
+}
+
+h2{
+    background-color: blueviolet;
+}
+
+h3{
+    background-color: blue;
+}
+
+h4{
+    background-color: aqua;
+}
+
+h5{
+    background-color: red;
+}
+
+h6{
+    background-color: brown;
+}
+
+h2,h3,h4,h5,h6{
+    color: steelblue;
+}
+
+div{
+    background-color: yellow;
+    height: 100px;
+}
+
+#primerdiv{
+    background: #000;
+}
+
+article{
+    background-color: slateblue;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.articulo2{
+    background-color: green;
+    color: #fff;
+    font-weight: bold;
+}
+
+.articulo3{
+    background-color: sandybrown;
+    color: brown;
+    font-weight: bold;
+}
